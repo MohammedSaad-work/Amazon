@@ -4,7 +4,7 @@ A static storefront homepage recreation built with HTML and CSS as a front-end p
 
 ## Preview
 
-![Amazon storefront homepage screenshot](Screenshot%202026-11-17%20171751.png)
+![Amazon storefront homepage screenshot](amazon-homepage.png)
 
 [View the live demo](https://mohammedsaad-work.github.io/Amazon/)
 
